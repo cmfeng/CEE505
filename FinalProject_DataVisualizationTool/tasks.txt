@@ -1,0 +1,17 @@
+1. arrange interface
+\ create panels, buttons, textcontrols, etc
+\ set sizers
+
+2. implementing methods
+\ implementing methods for buttons
+\ reverse
+\ reset view
+\ quit
+\ search return?
+
+3. draw the lines
+\ implementing a function: converting long and lat to screen coordinates
+\ add map and draw cities
+\ draw lines with buttons
+
+4. check how to connect the result of searching to drawing the line
