@@ -1,5 +1,4 @@
-# CEE505 engineering Computing
-HWs and projects from coursework
+# CEE505 engineering Computing HWs and projects
 ## Main Contents:
 Python: basic syntax, variables, containers  
 procedural programing  
